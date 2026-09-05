@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462453304923",
+    "project_id": "patterngame-6e05b",
+    "storage_bucket": "patterngame-6e05b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462453304923:android:00aa3673f9adca1a2f597e",
+        "android_client_info": {
+          "package_name": "com.skyhisoft.patternGame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEgDH9yIdkoMjiJtYU5PuLBSKT4AZYL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
